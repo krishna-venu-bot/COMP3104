@@ -1,0 +1,23 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna-venu-bot/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna-venu-bot/COMP3104/issues"
+  },
+  "homepage": "https://github.com/krishna-venu-bot/COMP3104#readme",
+  "dependencies": {
+    "react-scripts": "^0.0.0"
+  }
+}
